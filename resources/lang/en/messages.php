@@ -22,6 +22,6 @@ return [
     'lessons' => 'Lesson|Lessons',
     'activities' => 'Activity|Activities',
     'learned' => 'Learned',
-    'unlearned' => 'Unlearned',
     'followed' => 'Followed',
+    'unlearned' => 'Unlearned',
 ];
